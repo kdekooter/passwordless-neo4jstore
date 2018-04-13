@@ -38,9 +38,12 @@ they have to be protected in the same way. passwordless-mongostore uses bcryptjs
 
 ## Tests
 
+Make sure an instance of Neo4J is running. One way to do that is via Docker.
+`docker run -d -p 127.0.0.1:7687:7687 --env NEO4J_AUTH=neo4j/graphtastic neo4j:latest`
+
 Set the following environment variables: `NEO4J_URL`, `NEO4J_USERNAME` and `NEO4J_PASSWORD`.
 
-`$ npm test`
+Run `$ npm test`
 
 ## License
 
