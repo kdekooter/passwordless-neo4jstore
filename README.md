@@ -48,3 +48,8 @@ Set the following environment variables: `NEO4J_URL`, `NEO4J_USERNAME` and `NEO4
 
 ## Author
 Kees de Kooter
+
+[npm-url]: https://npmjs.org/package/moment
+[npm-version-image]: http://img.shields.io/npm/v/moment.svg?style=flat
+[license-image]: http://img.shields.io/badge/license-MIT-blue.svg?style=flat
+[license-url]: LICENSE
