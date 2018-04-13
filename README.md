@@ -1,5 +1,6 @@
 [![NPM version][npm-version-image]][npm-url]
 [![MIT License][license-image]][license-url]
+[![Build Status](https://travis-ci.org/kdekooter/passwordless-neo4jstore.svg?branch=master)](https://travis-ci.org/kdekooter/passwordless-neo4jstore)
 
 # Passwordless-Neo4JStore
 
